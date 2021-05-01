@@ -10,6 +10,8 @@ banner = """
 |_| \_\___| \_/ \___|_|   |_| |_| |_|\___/|_| |_|
                                                  
 v1.0
+
+Telegram: @neopbplc
 """
 
 print(banner)
